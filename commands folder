@@ -1,0 +1,31 @@
+what is i.p adress
+how internet works
+what is router
+what is LAN networking
+what is wan
+how I.P idress configurtion in window
+what is difference between WIFI and LAN
+what is ethernet
+what is optical fiber , cat 6 , 
+what is modem
+what is switch in inter networking
+types of switch
+what is packet
+
+
+
+write a programme to store daily total expense of month and display it 
+
+
+  -- -----------
+   1 try { . "c:\Users\sami\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\browser\media\shellInt... 
+   2 cd .\M-Kashif\
+   3 git add .
+   4 git commit -m "zubair is my teacher"
+   5 git config --global user.email "you@example.com"
+   6 git commit -m "zubair is my teacher"
+   7 git push
+   8 git set-url origin git@github.com:kashikashif/M-Kashif.git
+   9 git remote set-url origin git@github.com:kashikashif/M-Kashif.git
+  10 git remote -v
+  11 git push
